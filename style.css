@@ -1,0 +1,59 @@
+.first-div img{
+    height: 430px;
+    width: 420px;
+}
+.frist{
+    display: flex;
+    padding: 20px;
+    padding-top: 40px;
+    padding-left: 10%;
+   background-color: rgb(189, 182, 163);
+}
+.card{
+    /* border: 2px solid red;
+   
+    height: 323px;
+    width: 408px;
+    display: flex;
+    padding: 23px 12px;
+    background-color: rgb(red, green, blue); */
+    padding: 23px 12px;
+    margin: 23px 12px;
+    background-color:rgba(128, 128, 128, 0.479);
+    box-shadow: 33px 19px 52px black;
+    height: 388px;
+    width: 484px;
+    
+
+    
+}
+.card img{
+    height: 114px;
+    width: 300px;
+    padding-left: 95px;
+}
+.cardm{
+    display: flex;
+    padding-top:20px;
+    height: 100%;
+    width: 100%;
+
+}
+#card-1{
+ 
+    padding: 20px;
+}
+.last-section{
+    justify-content: center;
+    text-align: center;
+    padding: 80px;
+    background-color: #eaead3;
+    margin-top: 36px;
+}
+.last-section button{
+     background-color: rgb(235, 211, 215);
+}
+footer{
+    text-align: center;
+    padding-top: 15px;
+}
